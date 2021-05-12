@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/frick_/Desktop/2048 pc build
+C:/Users/frick_/Documents/GitHub/2048-Monster-Solitaire-WebGL/2048 MonsterSolitaire WebGL project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-3930
-Successfully changed project path to: C:/Users/frick_/Desktop/2048 pc build
-C:/Users/frick_/Desktop/2048 pc build
+11345
+Successfully changed project path to: C:/Users/frick_/Documents/GitHub/2048-Monster-Solitaire-WebGL/2048 MonsterSolitaire WebGL project
+C:/Users/frick_/Documents/GitHub/2048-Monster-Solitaire-WebGL/2048 MonsterSolitaire WebGL project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 95.65 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 82.21 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/frick_/Desktop/2048 pc build/Assets
+[Subsystems] Discovering subsystems at path C:/Users/frick_/Documents/GitHub/2048-Monster-Solitaire-WebGL/2048 MonsterSolitaire WebGL project/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,234 +35,203 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56476
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002965 seconds.
+Registered in 0.002480 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 97.62 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 73.48 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.546 seconds
+- Completed reload, in  3.245 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001480 seconds.
+Registered in 0.001237 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 146.80 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 79.02 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.022 seconds
+- Completed reload, in  1.738 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1910 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.5 MB.
-System memory in use after: 89.6 MB.
+System memory in use before: 90.2 MB.
+System memory in use after: 90.3 MB.
 
 Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2355.
-Total: 4.150178 ms (FindLiveObjects: 0.497200 ms CreateObjectMapping: 0.119289 ms MarkObjects: 3.335200 ms  DeleteObjects: 0.148622 ms)
+Total: 2.776400 ms (FindLiveObjects: 0.396978 ms CreateObjectMapping: 0.104622 ms MarkObjects: 2.153556 ms  DeleteObjects: 0.113911 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/_Scripts/UI/DelButton.cs
-  artifactKey: Guid(156798b12bbfccb428c55668bdedd84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scripts/UI/DelButton.cs using Guid(156798b12bbfccb428c55668bdedd84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6a7b8131a932580fa9363cda001c87') in 0.030055 seconds
-  Import took 0.036299 seconds .
+  path: Assets/Animation/TableBarAppearance.anim
+  artifactKey: Guid(67b960c68d6d2b94ca407e5eda81d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/TableBarAppearance.anim using Guid(67b960c68d6d2b94ca407e5eda81d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a92f07d9cbf565bfc80039cea385b29') in 0.046085 seconds
+  Import took 0.050116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.554545 seconds.
+  path: Assets/Animation/FadeOut.anim
+  artifactKey: Guid(62da27a984be6ea469d9d91adcb14588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/FadeOut.anim using Guid(62da27a984be6ea469d9d91adcb14588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d39176eb403b77b200e5c38c66c3eb') in 0.003651 seconds
+  Import took 0.007522 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002025 seconds.
+Registered in 0.016107 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.772 seconds
+- Completed reload, in  2.869 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1901 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.4 MB.
-System memory in use after: 89.5 MB.
+Unloading 1920 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.1 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2357.
-Total: 2.855600 ms (FindLiveObjects: 0.375467 ms CreateObjectMapping: 0.101689 ms MarkObjects: 2.347645 ms  DeleteObjects: 0.025422 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 255.713420 seconds.
-  path: Assets/_Scripts/UI/ButtonController.cs
-  artifactKey: Guid(460ed6f35ff78bf469354dafab29bc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scripts/UI/ButtonController.cs using Guid(460ed6f35ff78bf469354dafab29bc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24477ae1bc328ecc428e8e2b3abde743') in 0.006783 seconds
-  Import took 0.010994 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.650344 seconds.
-  path: Assets/Scenes/Table.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Table.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e0207f1b1e2f2ab7dcbc01c0b4cb44e') in 0.012527 seconds
-  Import took 0.016205 seconds .
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2401.
+Total: 4.142845 ms (FindLiveObjects: 0.819378 ms CreateObjectMapping: 0.242000 ms MarkObjects: 3.034045 ms  DeleteObjects: 0.039600 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001407 seconds.
+Registered in 0.010200 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.562 seconds
+- Completed reload, in  1.567 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1901 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
+Unloading 1920 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.4 MB.
+System memory in use after: 91.5 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2359.
-Total: 3.175823 ms (FindLiveObjects: 0.392578 ms CreateObjectMapping: 0.110000 ms MarkObjects: 2.640000 ms  DeleteObjects: 0.026889 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 176.837531 seconds.
-  path: Assets/CenturiGotic.ttf
-  artifactKey: Guid(a5e3d66e718c487498e57e870acf1724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CenturiGotic.ttf using Guid(a5e3d66e718c487498e57e870acf1724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad0d5918ffd5c5e8fa802b315aed2a04') in 0.244989 seconds
-  Import took 0.249498 seconds .
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 2.834578 ms (FindLiveObjects: 0.345644 ms CreateObjectMapping: 0.099244 ms MarkObjects: 2.349600 ms  DeleteObjects: 0.034711 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.538526 seconds.
-  path: Assets/CenturiGotic1.ttf
-  artifactKey: Guid(5a20b35e42ad3894db37af130891d212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CenturiGotic1.ttf using Guid(5a20b35e42ad3894db37af130891d212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1734a3f29db805fcbf4dcb6c7ac9fd61') in 0.029675 seconds
-  Import took 0.035284 seconds .
+  Time since last request: 352.145515 seconds.
+  path: Assets/Plugins/GitHub
+  artifactKey: Guid(18e096a98c2704c40a818dd1214cd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub using Guid(18e096a98c2704c40a818dd1214cd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1edffe3ac331f2550576ff5f370e91f') in 0.266605 seconds
+  Import took 0.288920 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.343267 seconds.
-  path: Assets/SourceCodePro-Bold.ttf
-  artifactKey: Guid(0927331820386c74dafaab43d8c0b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SourceCodePro-Bold.ttf using Guid(0927331820386c74dafaab43d8c0b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '502e82ab4685de8417fc858e3b93e3d0') in 0.020268 seconds
-  Import took 0.026755 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.648178 seconds.
-  path: Assets/SourceCodePro-Bold.ttf
-  artifactKey: Guid(0927331820386c74dafaab43d8c0b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SourceCodePro-Bold.ttf using Guid(0927331820386c74dafaab43d8c0b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c1552395ff47334a3975b3541e2b2f') in 0.037155 seconds
-  Import took 0.043849 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.071446 seconds.
-  path: Assets/SourceCodePro-Medium.ttf
-  artifactKey: Guid(2b7c4f7ad831cbc4f8efc01cd37720b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SourceCodePro-Medium.ttf using Guid(2b7c4f7ad831cbc4f8efc01cd37720b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda7ffeacb6c2efb0756f6dbbcd3ead5') in 0.017120 seconds
-  Import took 0.022020 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.317718 seconds.
-  path: Assets/SourceCodePro-Medium.ttf
-  artifactKey: Guid(2b7c4f7ad831cbc4f8efc01cd37720b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SourceCodePro-Medium.ttf using Guid(2b7c4f7ad831cbc4f8efc01cd37720b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17de3ee273c5067e8cfc7fc606c38ca6') in 0.017603 seconds
-  Import took 0.025220 seconds .
+  Time since last request: 4.304568 seconds.
+  path: Assets/Plugins/GitHub/Editor
+  artifactKey: Guid(cad92998c5182496e8b989b406d9f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor using Guid(cad92998c5182496e8b989b406d9f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1965e1709e2dbc43b7848d7b4356cea0') in 0.003053 seconds
+  Import took 0.046810 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 12.92 ms, found 1 plugins.
+Registering precompiled user dll's ...
+Registered in 0.001537 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.6 MB.
-System memory in use after: 56.7 MB.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.512 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1902 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.1 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2403.
-Total: 3.817245 ms (FindLiveObjects: 0.387200 ms CreateObjectMapping: 0.102667 ms MarkObjects: 3.292178 ms  DeleteObjects: 0.028844 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2405.
+Total: 2.936267 ms (FindLiveObjects: 0.367644 ms CreateObjectMapping: 0.105600 ms MarkObjects: 2.426845 ms  DeleteObjects: 0.029822 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 910.042384 seconds.
-  path: Assets/CenturiGotic1.ttf
-  artifactKey: Guid(5a20b35e42ad3894db37af130891d212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CenturiGotic1.ttf using Guid(5a20b35e42ad3894db37af130891d212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70da80be6bff9d4fae871d9a4a9462ce') in 0.161849 seconds
-  Import took 0.382136 seconds .
+  Time since last request: 66.130946 seconds.
+  path: Assets/Plugins/GitHub/Editor
+  artifactKey: Guid(cad92998c5182496e8b989b406d9f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor using Guid(cad92998c5182496e8b989b406d9f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e241952aaf11c6bd93f8743ee9048ba1') in 0.007741 seconds
+  Import took 0.043220 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.052243 seconds.
-  path: Assets/CenturiGotic.ttf
-  artifactKey: Guid(a5e3d66e718c487498e57e870acf1724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CenturiGotic.ttf using Guid(a5e3d66e718c487498e57e870acf1724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2ebadba2be176ee6d6edb559ee0d5c') in 0.119598 seconds
-  Import took 0.173960 seconds .
+  Time since last request: 0.089888 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(720712be6e31c444f88f57bb85bf5fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(720712be6e31c444f88f57bb85bf5fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedeefc5f7f8de1a713171cabe9ef752') in 0.004038 seconds
+  Import took 0.025793 seconds .
 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 12.04 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 56.8 MB.
-System memory in use after: 56.9 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2403.
-Total: 8.512046 ms (FindLiveObjects: 0.403822 ms CreateObjectMapping: 0.099733 ms MarkObjects: 7.964979 ms  DeleteObjects: 0.037156 ms)
+Received Import Request.
+  Time since last request: 52.888586 seconds.
+  path: Assets/TableBarAppearance.anim
+  artifactKey: Guid(67b960c68d6d2b94ca407e5eda81d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TableBarAppearance.anim using Guid(67b960c68d6d2b94ca407e5eda81d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6a3b308120d9d51e241a3c11b14ca6') in 0.017220 seconds
+  Import took 0.043454 seconds .
 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 11.57 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.0 MB.
-System memory in use after: 57.2 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2403.
-Total: 4.815556 ms (FindLiveObjects: 0.730400 ms CreateObjectMapping: 0.128578 ms MarkObjects: 3.915512 ms  DeleteObjects: 0.033244 ms)
+Received Import Request.
+  Time since last request: 38.649522 seconds.
+  path: Assets/Plugins/GitHub/Editor/x64
+  artifactKey: Guid(a0ded7adcc817ce489fec07977f16d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/x64 using Guid(a0ded7adcc817ce489fec07977f16d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a532bada6dada5d77171bf5c97cfcd0') in 0.004394 seconds
+  Import took 0.059795 seconds .
 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 13.83 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2403.
-Total: 5.032134 ms (FindLiveObjects: 0.711822 ms CreateObjectMapping: 0.203378 ms MarkObjects: 4.052889 ms  DeleteObjects: 0.056222 ms)
+Received Import Request.
+  Time since last request: 1.515471 seconds.
+  path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+  artifactKey: Guid(fe5abeadcbe591e4fa9107fbc02f3998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll using Guid(fe5abeadcbe591e4fa9107fbc02f3998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef92302c7d4a901277af221e8401a7f') in 0.152261 seconds
+  Import took 0.156236 seconds .
 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 8.58 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.5 MB.
-System memory in use after: 57.6 MB.
+Received Import Request.
+  Time since last request: 0.077711 seconds.
+  path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+  artifactKey: Guid(fe5abeadcbe591e4fa9107fbc02f3998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll using Guid(fe5abeadcbe591e4fa9107fbc02f3998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef92302c7d4a901277af221e8401a7f') in 0.002762 seconds
+  Import took 0.006454 seconds .
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2403.
-Total: 3.532712 ms (FindLiveObjects: 0.364222 ms CreateObjectMapping: 0.099733 ms MarkObjects: 3.033556 ms  DeleteObjects: 0.027378 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 0.841756 seconds.
+  path: Assets/Plugins/GitHub
+  artifactKey: Guid(18e096a98c2704c40a818dd1214cd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub using Guid(18e096a98c2704c40a818dd1214cd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd298a7ff18ca74a46760fa731dbe945e') in 0.003436 seconds
+  Import took 0.025952 seconds .
 
