@@ -1,0 +1,9 @@
+<root>
+  <ColumnInstance x="-1.684" y="0.75" z="0" cFulled = "false">Column</ColumnInstance>
+  <ColumnInstance x="-0.564" y="0.75" z="0" cFulled = "false">Column</ColumnInstance>
+  <ColumnInstance x="0.556" y="0.75" z="0" cFulled = "false">Column</ColumnInstance>
+  <ColumnInstance x="1.676" y="0.75" z="0" cFulled = "false">Column</ColumnInstance>
+  
+  <FrontCardInstance x="0.33" y="-3.557" z="-1.15" value="2" delCard="false" boostCard="false">FrontCard</FrontCardInstance>
+  <BackCardInstance x="-0.33" y="-3.557" z="-1" value="4" delCard="false" boostCard="false">BackCard</BackCardInstance>
+</root>
